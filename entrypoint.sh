@@ -1,1 +1,4 @@
- node server.js
+#!/bin/bash
+while true; do 
+   echo 111
+done
